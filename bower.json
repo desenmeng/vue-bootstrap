@@ -1,0 +1,23 @@
+{
+  "name": "vue-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/demohi/vue-bootstrap",
+  "authors": [
+    "mdemo <mengdesen09@qq.com>"
+  ],
+  "description": "Bootstrap 3 components built with Vue",
+  "keywords": [
+    "vue",
+    "bootstrap",
+    "vue.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
